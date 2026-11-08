@@ -1,2 +1,2 @@
-# Data-Analyst-Portfolio
-My Portfolio for all my Data analytics projects. 
+# BC-Housing Analysis
+Data Analytics Project on the BC Housing Market
